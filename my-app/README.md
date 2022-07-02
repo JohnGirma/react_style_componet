@@ -1,4 +1,6 @@
-#React & Styled Components
+# Huddle Landing Page (React & Styled Components)
+
+Project from my styled components crash course
 
 ## Usage
 
