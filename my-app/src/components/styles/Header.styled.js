@@ -19,7 +19,7 @@ height: 60px;
 }
         `
         
-export const Image=styled.image`
-// width:375px;
-// margin-left:40px;
+export const Image=styled.img`
+ width:375px;
+ margin-left:40px;
 `
