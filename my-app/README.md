@@ -5,6 +5,6 @@ Project from my styled components crash course
 ## Usage
 
 ```
-npm install
-npm start
+yarn install
+yarn start
 ```
