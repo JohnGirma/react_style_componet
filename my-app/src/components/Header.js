@@ -28,7 +28,7 @@ function Header(){
                     </Button>
                 </div>
 
-                <Image src='../public/images/image.png' alt='yohannes' />
+                <Image src="./images/logo1.png" alt='yohannes' />
 
 
             </Flex>
